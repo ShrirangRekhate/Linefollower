@@ -1,0 +1,80 @@
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Added Component: Designator=BATTERY(TE_282837-2)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/282837-2/TE+Connectivity+AMP+Connectors/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "282837-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/282837-2/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/282837-2/TE+Connectivity+AMP+Connectors/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found MODULE_ROB-14450
+Added Component: Designator=SWITCH(TE_282837-2)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/282837-2/TE+Connectivity+AMP+Connectors/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "282837-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/282837-2/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/282837-2/TE+Connectivity+AMP+Connectors/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin BATTERY--
+Add Pin To Net: Unknown Pin: Pin MD-3
+Add Pin To Net: Unknown Pin: Pin MD-10
+Add Pin To Net: Unknown Pin: Pin MD-11
+Add Pin To Net: Unknown Pin: Pin MD-12
+Add Pin To Net: Unknown Pin: Pin MD-14
+Add Pin To Net: Unknown Pin: Pin MD-15
+Add Pin To Net: Unknown Pin: Pin MD-16
+Added Pin To Net: NetName=IN3 Pin=U1-22
+Added Pin To Net: NetName=IN4 Pin=U1-23
+Added Pin To Net: NetName=ENB Pin=U1-24
+Added Pin To Net: NetName=IN1 Pin=U1-25
+Added Pin To Net: NetName=IN2 Pin=U1-26
+Added Pin To Net: NetName=ENA Pin=U1-27
+Added Pin To Net: NetName=5V Pin=IR_pow-2
+Added Pin To Net: NetName=5V Pin=U1-15
+Added Pin To Net: NetName=5V Pin=VR-1
+Added Net: Name=5V
+Added Pin To Net: NetName=12V Pin=SWITCH-1
+Added Net: Name=12V
+Added Pin To Net: NetName=A0 Pin=signal-1
+Added Pin To Net: NetName=A0 Pin=U1-4
+Added Net: Name=A0
+Added Pin To Net: NetName=A1 Pin=signal-2
+Added Pin To Net: NetName=A1 Pin=U1-5
+Added Net: Name=A1
+Added Pin To Net: NetName=A2 Pin=signal-3
+Added Pin To Net: NetName=A2 Pin=U1-6
+Added Net: Name=A2
+Added Pin To Net: NetName=A3 Pin=signal-4
+Added Pin To Net: NetName=A3 Pin=U1-7
+Added Net: Name=A3
+Added Pin To Net: NetName=A4 Pin=signal-5
+Added Pin To Net: NetName=A4 Pin=U1-8
+Added Net: Name=A4
+Added Pin To Net: NetName=A5 Pin=signal-6
+Added Pin To Net: NetName=A5 Pin=U1-9
+Added Net: Name=A5
+Added Pin To Net: NetName=A6 Pin=signal-7
+Added Pin To Net: NetName=A6 Pin=U1-10
+Added Net: Name=A6
+Added Pin To Net: NetName=A7 Pin=signal-8
+Added Pin To Net: NetName=A7 Pin=U1-11
+Added Net: Name=A7
+Added Pin To Net: NetName=M11 Pin=M1-1
+Added Net: Name=M11
+Added Pin To Net: NetName=M12 Pin=M1-2
+Added Net: Name=M12
+Added Pin To Net: NetName=M21 Pin=M2-1
+Added Net: Name=M21
+Added Pin To Net: NetName=M22 Pin=M2-2
+Added Net: Name=M22
+Added Pin To Net: NetName=POW Pin=SWITCH-2
+Added Pin To Net: NetName=POW Pin=VR-3
+Added Net: Name=POW
+Added Member To Class: ClassName=Sheet1 Member=Component BATTERY 282837-2
+Add Class Member: Failed to add class member : Component MD ROB-14450
+Added Member To Class: ClassName=Sheet1 Member=Component SWITCH 282837-2

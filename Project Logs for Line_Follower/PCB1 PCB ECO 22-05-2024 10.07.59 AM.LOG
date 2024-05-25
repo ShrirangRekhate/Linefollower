@@ -1,0 +1,25 @@
+Added Component: Designator=MD(MODULE_ROB-14450)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ROB-14450/SparkFun%20Electronics/view-part/2656367/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "SparkFun Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ROB-14450"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ROB-14450/SparkFun%20Electronics/view-part/2656367/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin BATTERY-+
+Add Pin To Net: Unknown Pin: Pin BATTERY--
+Added Pin To Net: NetName=POW Pin=MD-1
+Added Pin To Net: NetName=5V Pin=MD-2
+Added Pin To Net: NetName=GND Pin=MD-3
+Added Pin To Net: NetName=M11 Pin=MD-4
+Added Pin To Net: NetName=M12 Pin=MD-5
+Added Pin To Net: NetName=M22 Pin=MD-6
+Added Pin To Net: NetName=M21 Pin=MD-7
+Added Pin To Net: NetName=ENB Pin=MD-10
+Added Pin To Net: NetName=IN4 Pin=MD-11
+Added Pin To Net: NetName=IN3 Pin=MD-12
+Added Pin To Net: NetName=IN1 Pin=MD-14
+Added Pin To Net: NetName=IN2 Pin=MD-15
+Added Pin To Net: NetName=ENA Pin=MD-16
+Added Member To Class: ClassName=Sheet1 Member=Component MD ROB-14450

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=5V Pin=U1-15
+Add Pin To Net: Unknown Pin: Pin BATTERY-+
+Add Pin To Net: Unknown Pin: Pin BATTERY--
+Added Pin To Net: NetName=12V Pin=U1-15

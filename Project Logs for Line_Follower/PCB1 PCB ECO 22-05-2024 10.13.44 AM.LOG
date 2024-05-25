@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=BATTERY-1
+Removed Pin From Net: NetName=12V Pin=BATTERY-2
+Removed Pin From Net: NetName=12V Pin=U1-15
+Added Pin To Net: NetName=12V Pin=BATTERY-1
+Added Pin To Net: NetName=GND Pin=BATTERY-2
+Added Pin To Net: NetName=5V Pin=U1-15

@@ -1,0 +1,22 @@
+Altium Designer Pick and Place Locations
+D:\Projects\Altium\Line Follower\Line_Follower\Project Outputs for Line_Follower\Generates pick and place files\[No Variations].txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       25-05-24
+Time:       15.44
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment    Layer    Footprint        Center-X(mil) Center-Y(mil) Rotation Description                                                                                                                                                                         
+MD         ROB-14450  TopLayer MODULE_ROB-14450 3500.000      2300.000      0        "TB6612FNG Motor Controller/Driver Power Management Evaluation Board"                                                                                                               
+SWITCH     282837-2   TopLayer TE_282837-2      2700.000      2300.000      90       "Разъемные клеммные колодки Розетка 2 положения 5,08 мм Припой прямой через отверстие 13,5 А / контакт" 
+BATTERY    282837-2   TopLayer TE_282837-2      2690.000      1710.000      90       "Разъемные клеммные колодки Розетка 2 положения 5,08 мм Припой прямой через отверстие 13,5 А / контакт" 
+VR         TSOP1838   TopLayer TSOP1838         2700.000      2900.000      180      "IR Remote Receiver 38KHz 35m 3-Pin"                                                                                                                                                
+U1         ABX00028   TopLayer MODULE_ABX00028  4400.000      2200.000      90       "Arduino’s 5V compatible board in the smallest available form factor: 45x18mm!"                                                                                                   
+signal     "Header 8" TopLayer HDR1X8           6400.000      2150.000      90       "Header, 8-Pin"                                                                                                                                                                     
+M2         282837-2   TopLayer TE_282837-2      3500.000      1600.000      0        "Разъемные клеммные колодки Розетка 2 положения 5,08 мм Припой прямой через отверстие 13,5 А / контакт" 
+M1         282837-2   TopLayer TE_282837-2      3500.000      3100.000      0        "Разъемные клеммные колодки Розетка 2 положения 5,08 мм Припой прямой через отверстие 13,5 А / контакт" 
+IR_pow     "Header 2" TopLayer HDR1X2           6400.000      2720.000      90       "Header, 2-Pin"                                                                                                                                                                     
